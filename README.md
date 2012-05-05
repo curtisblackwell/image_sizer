@@ -1,7 +1,8 @@
 Lumis Image Sizer
 =================
 
-This is an **exact** clone of of Lumis's [Image Sizer](http://devot-ee.com/add-ons/image-sizer) (2.6.4) for ExpressionEngine.
+This is an **exact** clone of of Lumis's [Image Sizer](http://devot-ee.com/add-ons/image-sizer) (2.6.4) for ExpressionEngine.  
+<small>[License](http://creativecommons.org/licenses/by/3.0/)</small>
 
 Changes and Those Intended
 --------------------------
